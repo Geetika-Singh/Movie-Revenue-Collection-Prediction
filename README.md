@@ -10,6 +10,6 @@ Look at the shape of the test, train, and validation set <br>
 Standardize the data <br>
 Create an ANN model with 2 dense layers of 30 neurons each <br>
 Compile the model with loss="mean_squared_error", optimizer=keras.optimizers.SGD(lr=1e-2) and metrics=['mae']) <br>
-Train the model for 100 epochs <br>
+Train the model for 200 epochs <br>
 Evaluate the model performance on the test set <br>
 Predict the values of the first 5 test records <br>
